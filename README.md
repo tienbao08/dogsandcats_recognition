@@ -4,4 +4,7 @@
 
 [didan fb](https://www.facebook.com/vuduydidan/)
 
-> pip install numpy
+```py
+ import numpy as np
+ print("hello world")
+ ```
