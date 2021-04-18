@@ -2,7 +2,7 @@
   * Input: Dogs or Cats images.
   * Ouput: Classification Dogs or Cats. 
 ## Abstract
-  *This project describes the machine learning method in the binary classification problem that distinguishes the two animals closest to humans: dogs and cats. Using three machine learning methods to perform the problem, including:
+  *This project describes the machine learning method in the binary classification problem that distinguishes the two animals closest to humans: dogs and cats. Using three machine learning methods to perform the problem, including:*
   * *Logistic Regression* 
   * *Neural Network with One Hidden Layer* 
   * *Convolutional Neural Network.*
@@ -14,6 +14,7 @@
 
 ## In-depth 
   ### Logistic Regressios
+  ![image](result/1.2.v1.jpg/)
   ![image](result/1.v1.jpg/)
 
   ### Neural Network with One Hidden Layer
