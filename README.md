@@ -18,7 +18,12 @@
   ![image](result/1.2.v1.jpg/)
   ![image](result/1.v1.jpg/)
 
+
   ### Neural Network with One Hidden Layer
+  ![image](result/2.v1.jpg/)
+  ![image](result/2.1.v1.jpg/)
+  ![image](result/2.2.v1.jpg/)
+  
   
   ### Convolutional Neural Network.
 
