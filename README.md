@@ -14,7 +14,7 @@
 
 ## In-depth 
   ### Logistic Regressios
-  ![image](dogsandcats_recognition/result/1.v1.jpg)
+  ![image](result/1.v1.jpg/)
 
   ### Neural Network with One Hidden Layer
   
