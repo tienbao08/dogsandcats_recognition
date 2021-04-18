@@ -13,9 +13,8 @@
 *[Follow the link to get data](https://drive.google.com/drive/folders/1m8QMw8JHTn77DefCox0IYVXILwbFN1F2)*
 
 ## In-depth 
-  ### Logistic Regression
-  ![image](https://user-images.githubusercontent.com/58307368/115137919-15004100-a053-11eb-9873-080996b4981d.png)
-  ![image](https://user-images.githubusercontent.com/58307368/115137925-25182080-a053-11eb-8c78-1abcc46e976f.png)
+  ### Logistic Regressios
+  ![image](result\1.v1.jpg)
 
   ### Neural Network with One Hidden Layer
   
