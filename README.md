@@ -1,4 +1,4 @@
-# DogsandCats Recognition
+# Dogs and Cats Recognition
   * Input: Dogs or Cats images.
   * Ouput: Classification Dogs or Cats. 
 ## Abstract
