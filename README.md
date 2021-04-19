@@ -23,4 +23,3 @@
   
   
   ### Convolutional Neural Network.
-
