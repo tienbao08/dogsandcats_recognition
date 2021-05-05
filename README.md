@@ -23,3 +23,21 @@
   
   
   ### Convolutional Neural Network.
+> import library
+```py
+import os
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
+from keras.utils.np_utils import to_categorical
+from keras.models import Sequential
+from keras.layers import Conv2D
+from keras.layers import MaxPooling2D
+from keras.layers import Flatten
+from keras.layers import Dense
+from keras.layers import Dropout
+from sklearn.utils import shuffle
+from sklearn.model_selection import train_test_split
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+```
